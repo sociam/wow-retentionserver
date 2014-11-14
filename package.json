@@ -1,0 +1,28 @@
+{
+  "name": "wow-retentionserver",
+  "version": "1.0.0",
+  "description": "WOW Retention Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sociam/wow-retentionserver.git"
+  },
+  "keywords": [
+    "sociam",
+    "wow"
+  ],
+  "author": "Daniel Alexander Smith <daniel@danielsmith.eu> (https://danielsmith.eu/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sociam/wow-retentionserver/issues"
+  },
+  "homepage": "https://github.com/sociam/wow-retentionserver",
+  "dependencies": {
+    "amqp": "^0.2.0",
+    "pg": "^3.6.3"
+  },
+  "devDependencies": {}
+}
