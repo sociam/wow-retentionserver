@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/sociam/wow-retentionserver",
   "dependencies": {
-    "amqp": "^0.2.0",
+    "amqplib": "^0.3.0",
     "pg": "^3.6.3"
   },
   "devDependencies": {}
